@@ -1,0 +1,14 @@
+/* 覆盖iview样式 */
+.ivu-layout{
+  height: 100%;
+}
+.ivu-layout.ivu-layout-has-sider{
+  height: auto;
+}
+.modal-footer{
+  text-align: center;
+}
+.ivu-form .ivu-form-item-label{
+  font-size: 14px;
+  color: rgba(0,0,0,.85);
+}
